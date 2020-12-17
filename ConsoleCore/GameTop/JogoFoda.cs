@@ -19,7 +19,7 @@ namespace GameTop
             System.Console.WriteLine(_jogador1.Corre());
             System.Console.WriteLine(_jogador1.Passa());
 
-            System.Console.WriteLine("\n");
+            System.Console.WriteLine("Ooutro Jogado \n");
 
             System.Console.WriteLine(_jogador2.Chuta());
             System.Console.WriteLine(_jogador2.Corre());
